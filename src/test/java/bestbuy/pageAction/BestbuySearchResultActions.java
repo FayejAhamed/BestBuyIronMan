@@ -24,7 +24,7 @@ public class BestbuySearchResultActions {
 		
 		//option 3
 		//BestbuySearchResultLocatorsObj.txSamsungTv.isDisplayed();
-		
+	
 	}
 	public void displayReturnExchange(){
 	
@@ -33,4 +33,8 @@ public class BestbuySearchResultActions {
 		BestbuySearchResultLocatorsObj.ReturnExchange.isDisplayed();
 		
 	}
+	public void newBranchGit(){
+		System.out.println("Hello, World!");
+	}
+	
 }
